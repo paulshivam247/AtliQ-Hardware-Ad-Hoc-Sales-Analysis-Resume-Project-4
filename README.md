@@ -1,7 +1,3 @@
-Excellent idea! Here’s a clean, organized **README.md** file you can use for your GitHub repository for this MySQL project:
-
----
-
 # 📊 AtliQ Hardware Ad-Hoc Sales Analysis — Resume Project #4
 
 Welcome to the repository for my **AtliQ Hardware Ad-Hoc Sales Analysis** project, created as part of the **Codebasics Resume Challenge #4**. This project involves structured SQL analysis and Excel visualizations to support executive decision-making by addressing 10 ad-hoc business queries from AtliQ Hardware’s management team.
@@ -98,7 +94,7 @@ This project highlights how data analytics can drive smarter business decisions 
 ---
 🔗 Connect With Me
 
-📌 LinkedIn: Your Name | 
+📌 LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7321393513630208000/ | 
 🎥 Project Video Presentation: https://youtu.be/EE-dB4ADRmM
 
 ---
